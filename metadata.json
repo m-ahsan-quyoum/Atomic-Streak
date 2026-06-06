@@ -1,0 +1,6 @@
+{
+  "name": "ATOMIC.STREAK",
+  "description": "A premium, fully responsive, and highly functional Multi-Column Habit Tracker web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
